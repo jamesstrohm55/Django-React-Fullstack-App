@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import api from "../api";
 import Note from "../components/Note.jsx";
-import "../styles/Home.css";
+import "../styles/home.css";
 
 
 function Home() {
