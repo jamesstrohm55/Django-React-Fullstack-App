@@ -20,7 +20,7 @@ This is a full-stack web application built using Django for the backend and Reac
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jamesstrohm55/Django-React-Fullstack-App
    cd django-backend
    ```
 2. Create and activate a virtual environment:
